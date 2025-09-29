@@ -1,0 +1,7 @@
+for create React App
+
+Step 1: npm create vite@latest
+Step 2:	then hit yes to start further process
+Step 3: then give the project name without any spaces
+Step 4: then select react and then select JavaScript
+Step 5: then follow the steps which they give 
